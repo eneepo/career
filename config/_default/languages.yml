@@ -1,0 +1,11 @@
+en:
+  weight: 1
+  languageName: English
+  title: Career Development
+  contentDir: content/en
+fa:
+  weight: 2
+  languageName: فارسی
+  title: توسعه شغلی 
+  contentDir: content/fa
+  languagedirection: rtl

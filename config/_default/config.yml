@@ -1,0 +1,30 @@
+baseURL: http://eneepo.github.io/career/
+languageCode: en-us
+title: Tech Career Development
+theme: mist
+
+defaultContentLanguage: en
+enableGitInfo: true
+enableRobotsTXT: true
+
+frontmatter:
+  date:
+  - date
+  - publishDate
+  - lastmod
+  expiryDate:
+  - expiryDate
+  lastmod:
+  - :git
+  - lastmod
+  - date
+  - publishDate
+  publishDate:
+  - publishDate
+  - date
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+    ordered: false

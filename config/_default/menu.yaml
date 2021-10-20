@@ -1,0 +1,17 @@
+main:
+  - name: Home
+    pre: home
+    url: /
+    weight: 1
+  - name: Interview Questions
+    pre: pen-tool
+    url: /interview-questions/
+    weight: 2
+  - name: Posts
+    pre: pen-tool
+    url: /posts/
+    weight: 3
+  - name: Tags
+    pre: tag
+    url: /tags/
+    weight: 4
